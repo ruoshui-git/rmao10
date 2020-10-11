@@ -1,0 +1,12 @@
+Team Nine2One (Julianna Yu, Cindy Zheng, Ruoshui Mao)
+SoftDev
+K08: Cross Pollination and Virtual Insanity
+As a team, we looking into other groups' workshops and documented here are our Q/C/C
+2020-10-06
+
+Q/C/C:
+- Many groups imported random and csv libraries to complete the assignment
+- There are many varying lengths of code depending on whether a group utilized DictReader or random.choices
+  - Many of the groups with longer code reimplemented what those methods do in their own way.
+- Will dictionary comprehension will make the program perform more efficiently?
+- Since the percentages don't add up to 100%, will using weights over cum_weights for random.choices make a significant difference?

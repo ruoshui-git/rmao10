@@ -1,4 +1,4 @@
-# Team Nine2One (Julianna, Cindy, Ruoshui)
+# Team Nine2One (Julianna Yu, Cindy Zheng, Ruoshui Mao)
 # SoftDev
 # K07: Stl/O: Divine your Destiny
 # 10/11/2020

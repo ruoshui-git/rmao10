@@ -1,0 +1,25 @@
+Team Nine2One (Julianna Yu, Cindy Zheng, Ruoshui Mao)
+SoftDev
+K09: Simple Path to Greatness
+Answered questions from app.py
+2020-10-08
+
+Q0: Where have you seen similar syntax in other langs?
+- This reminds us of initializing a new object in Java; however, in Java, you need the word "new" which does not present itself in this case.
+
+Q1: What points of reference do you have for the meaning of "/"
+When referring to the root directory, "/" is often used.
+
+Q2: Where will this print to?
+We think it will print to the terminal.
+
+Q3: What will it print?
+We think it will print "__main__".
+  update: We were right!
+
+Q3: Will this appear anywhere? How u know?
+We think it will not print anywhere, but it will appear on the webpage after you visit the link.
+  update: We were right!
+
+Q4: Where have you seen similar construcs in other languages?
+We've seen it in Java when calling a method; a specific instance of this is thread.run().

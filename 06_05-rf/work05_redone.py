@@ -1,4 +1,4 @@
-# Team Nine2One (Julianna, Cindy, Ruoshui)
+# Team Nine2One (Julianna Yu, Cindy Zheng, Ruoshui Mao)
 # SoftDev
 # K06: Learnination Through Amalgamation
 # Re-factor 05 code
