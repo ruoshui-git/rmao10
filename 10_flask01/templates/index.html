@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ tnpg }}!</title>
+</head>
+<body>
+    <h1>
+        {{ tnpg }} ({{ roster }})
+    </h1>
+
+    <p>
+        Your fate: <strong>{{ chosen }}</strong>
+    </p>
+
+    <p>
+        Other occupations:
+    </p>
+
+    <ul>
+        {% for ocpt in occupations %}
+            <li>{{ ocpt }}</li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
