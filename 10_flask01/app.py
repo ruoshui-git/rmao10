@@ -1,6 +1,9 @@
-# Ruoshui -- pending group review
-# SoftDev -- Rona Ed.
-# Oct 2020 
+'''
+Ruoshui Mao
+SoftDev -- Rona Ed.
+K10 - Flask app, random occupation on home page
+2020-10-11 
+'''
 
 from flask import Flask, render_template
 import occupations
