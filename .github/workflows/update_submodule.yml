@@ -1,0 +1,19 @@
+name: Repository Dispatch
+on:
+  repository_dispatch:
+    types: [update-submodule]
+jobs:
+  myEvent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        
+      - name: Update Submodules
+        uses: snickerbockers/submodules-init@v4
+        
+      - name: Commit back submodules
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with: 
+          commit_message: "update submodules"
+        
